@@ -1,0 +1,4 @@
+matplotlib==3.3.0
+nltk
+numpy==1.19.0
+scikit-learn
